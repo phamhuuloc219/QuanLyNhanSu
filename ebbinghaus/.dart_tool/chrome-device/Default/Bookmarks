@@ -1,0 +1,60 @@
+{
+   "checksum": "a7c78ee162aa6b7a767c0e2660ba91a8",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13340788509982569",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13340788509982572",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13152285666986658",
+            "date_last_used": "0",
+            "guid": "83d8c5f2-0b71-42b0-8e5a-7167dc782bf4",
+            "id": "7",
+            "name": "Facebook",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://m.facebook.com/home.php?_rdr"
+         }, {
+            "date_added": "13234879217162937",
+            "date_last_used": "0",
+            "guid": "5196018f-b312-4faf-b450-ae48a6293f7f",
+            "id": "8",
+            "name": "Hộp thư đến (207) - loclaulinh219@gmail.com - Gmail",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/0/?ogbl#inbox"
+         } ],
+         "date_added": "13340788509982574",
+         "date_last_used": "0",
+         "date_modified": "13234879217162937",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCDKGP/SKAQAAEgAgASoYUHBVYS9pYkVRUE40d0VucUJQKy9Qdz09oAYMEqgBCAgSowEKHGZtZ1Nxd2grODQ3S1dKTzhqTlVXQWZ1S1Bubz0SJDUxOTYwMThmLWIzMTItNGZhZi1iNDUwLWFlNDhhNjI5M2Y3ZhgAIAAoADCM4KiEizE4gND2wogwQIDQ9sKIMEocSXdMbWdzK0Y0emxpWXhxbFhDVUQ3bStMNDM4PVofIh2rSGxja0c1cUVXeThPSmVWVWFmTzVoanRBKzZBPWWLoIzREokBCAMShAEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJDJhZWYyMDM4LTRlYzQtNTM2ZC05NDg2LTg3YjMyMDllYTlmNhgAIAAoADDFtrrX1C841Jr/yvIvQNSa/8ryL0oceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAASpwEIBxKiAQocT3pBcGVQQUVXaG9CNDBNcVYwb0JxL21vV0xFPRIkODNkOGM1ZjItMGI3MS00MmIwLThlNWEtNzE2N2RjNzgyYmY0GAAgACgAMLrP9sKIMDjO0PbCiDBAztD2wogwShwzT3BtRVhIdTJHbW5wby9ZV08vdzBkam9xcWM9Wh4iHFd0L0RlUWxENmx5MkZHVjNBeDZtZENEVVlFND1lAAAAABKJAQgCEoQBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiQyZmEzNmEyMy0wMGQ4LTUwMzctODM5OC05OWQ5YmZhYzdjYmMYACAAKAAwxba619QvOJOb/8ryL0CTm//K8i9KHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEokBCAEShAEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJDY2NjVkYjM2LTI5Y2EtNWJmNi1iMWNmLWI3MDQ0ZjYxNjNiMRgAIAAoADDFtrrX1C84v5z/yvIvQL+c/8ryL0ocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAAwADgA",
+   "version": 1
+}
