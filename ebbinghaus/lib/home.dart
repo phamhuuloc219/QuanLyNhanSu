@@ -1,5 +1,5 @@
+import 'package:apploc/day.dart';
 import 'package:flutter/material.dart';
-import 'day.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({Key? key}) : super(key: key);
@@ -21,10 +21,10 @@ class HomeScreen extends StatelessWidget {
             const SizedBox(height: 20),
             ElevatedButton(
               onPressed: () {
-                Navigator.push(
-                  context,
-                  MaterialPageRoute(builder: (context) => const Vocabulary()),
-                );
+                Navigator.of(context).push(MaterialPageRoute(
+                  builder: (context) => const Vocabulary(),
+                ));
+                //signup screen
               },
               child: const Text('Day'),
             ),
