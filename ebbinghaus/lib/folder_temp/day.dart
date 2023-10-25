@@ -10,7 +10,7 @@ class Vocabulary extends StatelessWidget {
     return MaterialApp(
       title: 'Vocabulary Day',
       theme: ThemeData(
-        primarySwatch: Colors.yellow,
+        primarySwatch: Colors.green,
       ),
       home: const VocabularyScreen(),
     );
@@ -141,7 +141,7 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
             icon: const Icon(Icons.arrow_back),
             onPressed: () {
               Navigator.of(context).push(MaterialPageRoute(
-                builder: (context) => const HomeScreen(),
+                builder: (context) => const Home(),
               ));
             },
           ),
@@ -226,10 +226,4 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
       ),
     );
   }
-}
-
-void main() {
-  runApp(const MaterialApp(
-    home: Vocabulary(),
-  ));
 }
