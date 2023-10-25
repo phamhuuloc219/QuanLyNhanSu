@@ -1,5 +1,5 @@
 // ignore_for_file: library_private_types_in_public_api, unused_import
-import 'package:apploc/home.dart';
+import 'package:apploc/folder_temp/home.dart';
 import 'package:flutter/material.dart';
 
 class Vocabulary extends StatelessWidget {
