@@ -6,5 +6,9 @@
 <a href="https://fb.com/facebook.com/phloc2193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/phloc2193" height="30" width="40" /></a>
 </p>
 <br>
-<p> Phần mềm quản lý nhân sự 
+<p> Bài tập nhóm môn Công nghệ phần mềm: Phần mềm quản lý nhân sự
+<a href="https://fb.com/facebook.com/phloc2193" target="blank">Phạm Hữu Lộc</a>
+<br>
+<a href="https://fb.com/facebook.com/thanhthao29033001" target="blank">Nguyễn Thị Thanh Thảo</a>
+
 </p>
