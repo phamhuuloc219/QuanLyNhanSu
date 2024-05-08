@@ -6,9 +6,11 @@
 <a href="https://fb.com/facebook.com/phloc2193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/phloc2193" height="30" width="40" /></a>
 </p>
 <br>
-<p> Bài tập nhóm môn Công nghệ phần mềm: Phần mềm quản lý nhân sự
+<p> 
+  <h1>
+  Bài tập nhóm môn Công nghệ phần mềm: Phần mềm quản lý nhân sự</h1>
   <br>
-  <h2>An Ordered HTML List</h2>
+  <h2>Thành viên trong nhóm:</h2>
 
 <ol>
   <li>
