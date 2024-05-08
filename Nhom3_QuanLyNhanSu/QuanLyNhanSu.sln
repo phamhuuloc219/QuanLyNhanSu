@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLyNhanSu", "Nhom3_QuanLyNhanSu\QuanLyNhanSu.csproj", "{2BA17153-7015-4FA8-B47E-1254EB47908C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BA17153-7015-4FA8-B47E-1254EB47908C}.Debug|x86.ActiveCfg = Debug|x86
+		{2BA17153-7015-4FA8-B47E-1254EB47908C}.Debug|x86.Build.0 = Debug|x86
+		{2BA17153-7015-4FA8-B47E-1254EB47908C}.Release|x86.ActiveCfg = Release|x86
+		{2BA17153-7015-4FA8-B47E-1254EB47908C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

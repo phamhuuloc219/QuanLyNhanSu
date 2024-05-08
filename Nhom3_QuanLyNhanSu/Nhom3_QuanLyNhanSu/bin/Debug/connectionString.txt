@@ -1,0 +1,1 @@
+Data Source=DESKTOP-KDS9J39\SQLEXPRESS;Initial Catalog=QLNSLC;Integrated Security=True
