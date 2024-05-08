@@ -7,8 +7,17 @@
 </p>
 <br>
 <p> Bài tập nhóm môn Công nghệ phần mềm: Phần mềm quản lý nhân sự
-<a href="https://fb.com/facebook.com/phloc2193" target="blank">Phạm Hữu Lộc</a>
+  <br>
+  <h2>An Ordered HTML List</h2>
+
+<ol>
+  <li>
+    <a href="https://fb.com/facebook.com/phloc2193" target="blank">Phạm Hữu Lộc</a></li>
+  <li>
+    <a href="https://fb.com/facebook.com/thanhthao29033001" target="blank">Nguyễn Thị Thanh Thảo</a>
+</li>
+</ol> 
+
 <br>
-<a href="https://fb.com/facebook.com/thanhthao29033001" target="blank">Nguyễn Thị Thanh Thảo</a>
 
 </p>
