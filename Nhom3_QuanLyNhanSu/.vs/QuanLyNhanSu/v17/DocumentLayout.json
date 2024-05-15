@@ -1,12 +1,101 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Learning\\GitHub\\QuanLyNhanSu\\Nhom3_QuanLyNhanSu\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA17153-7015-4FA8-B47E-1254EB47908C}|Nhom3_QuanLyNhanSu\\QuanLyNhanSu.csproj|d:\\learning\\github\\quanlynhansu\\nhom3_quanlynhansu\\nhom3_quanlynhansu\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2BA17153-7015-4FA8-B47E-1254EB47908C}|Nhom3_QuanLyNhanSu\\QuanLyNhanSu.csproj|solutionrelative:nhom3_quanlynhansu\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA17153-7015-4FA8-B47E-1254EB47908C}|Nhom3_QuanLyNhanSu\\QuanLyNhanSu.csproj|d:\\learning\\github\\quanlynhansu\\nhom3_quanlynhansu\\nhom3_quanlynhansu\\formconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2BA17153-7015-4FA8-B47E-1254EB47908C}|Nhom3_QuanLyNhanSu\\QuanLyNhanSu.csproj|solutionrelative:nhom3_quanlynhansu\\formconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA17153-7015-4FA8-B47E-1254EB47908C}|Nhom3_QuanLyNhanSu\\QuanLyNhanSu.csproj|d:\\learning\\github\\quanlynhansu\\nhom3_quanlynhansu\\nhom3_quanlynhansu\\formstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2BA17153-7015-4FA8-B47E-1254EB47908C}|Nhom3_QuanLyNhanSu\\QuanLyNhanSu.csproj|solutionrelative:nhom3_quanlynhansu\\formstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA17153-7015-4FA8-B47E-1254EB47908C}|Nhom3_QuanLyNhanSu\\QuanLyNhanSu.csproj|d:\\learning\\github\\quanlynhansu\\nhom3_quanlynhansu\\nhom3_quanlynhansu\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA17153-7015-4FA8-B47E-1254EB47908C}|Nhom3_QuanLyNhanSu\\QuanLyNhanSu.csproj|solutionrelative:nhom3_quanlynhansu\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA17153-7015-4FA8-B47E-1254EB47908C}|Nhom3_QuanLyNhanSu\\QuanLyNhanSu.csproj|d:\\learning\\github\\quanlynhansu\\nhom3_quanlynhansu\\nhom3_quanlynhansu\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2BA17153-7015-4FA8-B47E-1254EB47908C}|Nhom3_QuanLyNhanSu\\QuanLyNhanSu.csproj|solutionrelative:nhom3_quanlynhansu\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmMain.cs [Design]",
+              "DocumentMoniker": "D:\\Learning\\GitHub\\QuanLyNhanSu\\Nhom3_QuanLyNhanSu\\Nhom3_QuanLyNhanSu\\FrmMain.cs",
+              "RelativeDocumentMoniker": "Nhom3_QuanLyNhanSu\\FrmMain.cs",
+              "ToolTip": "D:\\Learning\\GitHub\\QuanLyNhanSu\\Nhom3_QuanLyNhanSu\\Nhom3_QuanLyNhanSu\\FrmMain.cs [Design]",
+              "RelativeToolTip": "Nhom3_QuanLyNhanSu\\FrmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:25:46.778Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormConnect.cs [Design]",
+              "DocumentMoniker": "D:\\Learning\\GitHub\\QuanLyNhanSu\\Nhom3_QuanLyNhanSu\\Nhom3_QuanLyNhanSu\\FormConnect.cs",
+              "RelativeDocumentMoniker": "Nhom3_QuanLyNhanSu\\FormConnect.cs",
+              "ToolTip": "D:\\Learning\\GitHub\\QuanLyNhanSu\\Nhom3_QuanLyNhanSu\\Nhom3_QuanLyNhanSu\\FormConnect.cs [Design]",
+              "RelativeToolTip": "Nhom3_QuanLyNhanSu\\FormConnect.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:25:17.133Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormStart.cs [Design]",
+              "DocumentMoniker": "D:\\Learning\\GitHub\\QuanLyNhanSu\\Nhom3_QuanLyNhanSu\\Nhom3_QuanLyNhanSu\\FormStart.cs",
+              "RelativeDocumentMoniker": "Nhom3_QuanLyNhanSu\\FormStart.cs",
+              "ToolTip": "D:\\Learning\\GitHub\\QuanLyNhanSu\\Nhom3_QuanLyNhanSu\\Nhom3_QuanLyNhanSu\\FormStart.cs [Design]",
+              "RelativeToolTip": "Nhom3_QuanLyNhanSu\\FormStart.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:25:16.09Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmHome.cs",
+              "DocumentMoniker": "D:\\Learning\\GitHub\\QuanLyNhanSu\\Nhom3_QuanLyNhanSu\\Nhom3_QuanLyNhanSu\\FrmHome.cs",
+              "RelativeDocumentMoniker": "Nhom3_QuanLyNhanSu\\FrmHome.cs",
+              "ToolTip": "D:\\Learning\\GitHub\\QuanLyNhanSu\\Nhom3_QuanLyNhanSu\\Nhom3_QuanLyNhanSu\\FrmHome.cs",
+              "RelativeToolTip": "Nhom3_QuanLyNhanSu\\FrmHome.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAWwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:21:54.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmHome.cs [Design]",
+              "DocumentMoniker": "D:\\Learning\\GitHub\\QuanLyNhanSu\\Nhom3_QuanLyNhanSu\\Nhom3_QuanLyNhanSu\\FrmHome.cs",
+              "RelativeDocumentMoniker": "Nhom3_QuanLyNhanSu\\FrmHome.cs",
+              "ToolTip": "D:\\Learning\\GitHub\\QuanLyNhanSu\\Nhom3_QuanLyNhanSu\\Nhom3_QuanLyNhanSu\\FrmHome.cs [Design]",
+              "RelativeToolTip": "Nhom3_QuanLyNhanSu\\FrmHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:18:56.541Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

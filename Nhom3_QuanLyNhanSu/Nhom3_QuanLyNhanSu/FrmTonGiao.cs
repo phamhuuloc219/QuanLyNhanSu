@@ -51,7 +51,7 @@ namespace Nhom3_QuanLyNhanSu
 
         private void EnableTextBox(bool b)
         {
-
+            txtMaTonGiao.Enabled = b;
             txtTenTonGiao.Enabled = b;
         }
 
@@ -59,7 +59,14 @@ namespace Nhom3_QuanLyNhanSu
         {
             if (dataGridView1.Rows.Count > 0)
             {
-                changeStateButton(true, true, false, true, true);
+                if (isAdmin)
+                {
+                    changeStateButton(true, true, false, true, true);
+                }
+                else
+                {
+                    changeStateButton(false, false, false, true, true);
+                }
                 EnableTextBox(false);
             }
             HiddenIconTextBox();
@@ -190,12 +197,14 @@ namespace Nhom3_QuanLyNhanSu
         }
 
         #endregion
+        private bool isAdmin;
 
         private TonGiaoModel model = null;
 
-        public FrmTonGiao()
+        public FrmTonGiao(bool isAdmin)
         {
             InitializeComponent();
+            this.isAdmin = isAdmin;
         }
 
         private void EnableButtonUpdate(bool b)

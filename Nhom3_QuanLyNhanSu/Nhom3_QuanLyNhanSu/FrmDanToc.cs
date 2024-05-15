@@ -61,7 +61,14 @@ namespace Nhom3_QuanLyNhanSu
         {
             if (dataGridView1.Rows.Count > 0)
             {
-                changeStateButton(true, true, false, true, true);
+                if (isAdmin)
+                {
+                    changeStateButton(true, true, false, true, true);
+                }
+                else
+                {
+                    changeStateButton(false, false, false, true, true);
+                }
                 EnableTextBox(false);
             }
             HiddenIconTextBox();
@@ -196,15 +203,18 @@ namespace Nhom3_QuanLyNhanSu
 
         private DanTocModel model = null;
 
+        private bool isAdmin;
+
         private bool isUpdate = false;
 
         public bool isChangeData = false;
 
         public string CurrentRowSelected = null;
 
-        public FrmDanToc()
+        public FrmDanToc(bool isAdmin)
         {
             InitializeComponent();
+            this.isAdmin = isAdmin;
         }
 
         private void EnableButtonUpdate(bool b) {

@@ -212,10 +212,9 @@ namespace Nhom3_QuanLyNhanSu
         private void tabControl1_SelectedIndexChanged(object sender, EventArgs e)
         {
             try
-            {
-                clstab.CurrentTab = (int)tabControl1.SelectedTab.Tag;
-                lblCurrentTab.Text = tabControl1.SelectedTab.Text.Trim() + " is opened";
-
+            {                
+                //clstab.CurrentTab = (int)tabControl1.SelectedTab.Tag;
+                //lblCurrentTab.Text = tabControl1.SelectedTab.Text.Trim() + " is opened";
                 EnableButton();
             }
             catch { 
@@ -408,7 +407,7 @@ namespace Nhom3_QuanLyNhanSu
 
         private void btnPhongBan_Click(object sender, EventArgs e)
         {
-            FrmPhongBan f = new FrmPhongBan();
+            FrmPhongBan f = new FrmPhongBan(nvlogin.LaAdmin);
             AddNewTab(f, 2);
             f.setTab(clstab.current());
             f.change = new ChangeStateButton(changeButton);
@@ -426,7 +425,7 @@ namespace Nhom3_QuanLyNhanSu
 
         private void btnChucVu_Click(object sender, EventArgs e)
         {
-            FrmChucVu f = new FrmChucVu();
+            FrmChucVu f = new FrmChucVu(nvlogin.LaAdmin);
             AddNewTab(f, 4);
             f.setTab(clstab.current());
             f.change = new ChangeStateButton(changeButton);
@@ -435,7 +434,7 @@ namespace Nhom3_QuanLyNhanSu
 
         private void btnDanToc_Click(object sender, EventArgs e)
         {
-            FrmDanToc f = new FrmDanToc();
+            FrmDanToc f = new FrmDanToc(nvlogin.LaAdmin);
             AddNewTab(f, 5);
             f.setTab(clstab.current());
             f.change = new ChangeStateButton(changeButton);
@@ -444,7 +443,7 @@ namespace Nhom3_QuanLyNhanSu
 
         private void btnTonGiao_Click(object sender, EventArgs e)
         {
-            FrmTonGiao f = new FrmTonGiao();
+            FrmTonGiao f = new FrmTonGiao(nvlogin.LaAdmin);
             AddNewTab(f, 6);
             f.setTab(clstab.current());
             f.change = new ChangeStateButton(changeButton);
@@ -453,7 +452,7 @@ namespace Nhom3_QuanLyNhanSu
 
         private void btnLuong_Click(object sender, EventArgs e)
         {
-            FrmLuong f = new FrmLuong();
+            FrmLuong f = new FrmLuong(nvlogin.LaAdmin);
             AddNewTab(f, 7);
             f.setTab(clstab.current());
             f.change = new ChangeStateButton(changeButton);
@@ -468,7 +467,7 @@ namespace Nhom3_QuanLyNhanSu
 
         private void btnHocVan_Click(object sender, EventArgs e)
         {
-            FrmTrinhDo f = new FrmTrinhDo();
+            FrmTrinhDo f = new FrmTrinhDo(nvlogin.LaAdmin);
             AddNewTab(f, 9);
             f.setTab(clstab.current());
             f.change = new ChangeStateButton(changeButton);

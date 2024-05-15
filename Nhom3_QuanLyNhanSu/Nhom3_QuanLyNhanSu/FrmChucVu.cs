@@ -59,9 +59,16 @@ namespace Nhom3_QuanLyNhanSu
 
         public void ShowEditAnDeleteButton()
         {
-            if (dataGridView1.Rows.Count>0)
+            if (dataGridView1.Rows.Count > 0)
             {
-                changeStateButton(true, true, false, true, true);
+                if (isAdmin)
+                {
+                    changeStateButton(true, true, false, true, true);
+                }
+                else
+                {
+                    changeStateButton(false, false, false, true, true);
+                }
                 EnableTextBox(false);
             }
             HiddenIconTextBox();
@@ -239,10 +246,12 @@ namespace Nhom3_QuanLyNhanSu
         #endregion
 
         private ChucVuModel model = null;
+        private bool isAdmin;
 
-        public FrmChucVu()
+        public FrmChucVu(bool isAdmin)
         {
             InitializeComponent();
+            this.isAdmin = isAdmin;
         }
 
         private bool isUpdate = false;

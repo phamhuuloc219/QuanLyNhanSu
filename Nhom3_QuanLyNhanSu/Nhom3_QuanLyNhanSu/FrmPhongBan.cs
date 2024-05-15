@@ -50,12 +50,24 @@ namespace Nhom3_QuanLyNhanSu
         {
             if (dataGridView1.Rows.Count > 0)
             {
-                changeStateButton(true, true, false, true, true);
-                txtMaPhong.Enabled = false;
-                txtTenPhong.Enabled = false;
+                if (isAdmin)
+                {
+                    changeStateButton(true, true, false, true, true);
+                }
+                else
+                {
+                    changeStateButton(false, false, false, true, true);
+                }
+                EnableTextBox(false);
             }
             HiddenIconTextBox();
-            
+
+        }
+        private void EnableTextBox(bool b)
+        {
+            txtMaPhong.Enabled = b;
+            txtTenPhong.Enabled = b;
+            txtSoNV.Enabled = b;
         }
 
         private void ShowDetail(DataGridViewRow row)
@@ -190,10 +202,11 @@ namespace Nhom3_QuanLyNhanSu
         }
 
         #endregion
-
-        public FrmPhongBan()
+        private bool isAdmin;
+        public FrmPhongBan(bool isAdmin)
         {
             InitializeComponent();
+            this.isAdmin = isAdmin;
         }
 
         private void EnableButtonUpdate(bool b)

@@ -51,6 +51,7 @@ namespace Nhom3_QuanLyNhanSu
 
         private void EnableTextBox(bool b)
         {
+            txtMaHV.Enabled = b;
             txtChuyenNganh.Enabled = b;
             txtTenHV.Enabled = b;
         }
@@ -59,7 +60,14 @@ namespace Nhom3_QuanLyNhanSu
         {
             if (dataGridView1.Rows.Count > 0)
             {
-                changeStateButton(true, true, false, true, true);
+                if (isAdmin)
+                {
+                    changeStateButton(true, true, false, true, true);
+                }
+                else
+                {
+                    changeStateButton(false, false, false, true, true);
+                }
                 EnableTextBox(false);
             }
             HiddenIconTextBox();
@@ -196,11 +204,14 @@ namespace Nhom3_QuanLyNhanSu
 
         #endregion
 
+        private bool isAdmin;
+
         private HocVanModel model = null;
 
-        public FrmTrinhDo()
+        public FrmTrinhDo(bool isAdmin)
         {
             InitializeComponent();
+            this.isAdmin = isAdmin;
         }
 
         private void EnableButtonUpdate(bool b)
