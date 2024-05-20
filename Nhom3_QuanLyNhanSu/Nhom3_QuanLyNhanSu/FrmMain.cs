@@ -476,7 +476,16 @@ namespace Nhom3_QuanLyNhanSu
 
         private void btnPrintNhanVien_Click(object sender, EventArgs e)
         {
+
             new Reports.Frm_Report_LuongThucLanh().Show();
+            /*if (nvlogin.LaAdmin)
+            {
+                btnPrintNhanVien.Enabled = false;
+            }
+            else
+            {
+                btnPrintNhanVien.Enabled = true;
+            }*/
         }
     }
 }

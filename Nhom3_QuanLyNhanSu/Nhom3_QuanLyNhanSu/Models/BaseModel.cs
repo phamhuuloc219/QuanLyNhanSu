@@ -257,7 +257,7 @@ namespace Nhom3_QuanLyNhanSu.Models
 
             string key=dtGrid.CurrentRow.Cells[index].Value.ToString();
 
-            if (MessageBox.Show("Bạn có chắc muốn xóa row " + key + "?", "Thông Báo", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+            if (MessageBox.Show("Bạn có chắc muốn xóa nhân viên có mã " + key + "?", "Thông Báo", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
             {
                 return key;
             }
