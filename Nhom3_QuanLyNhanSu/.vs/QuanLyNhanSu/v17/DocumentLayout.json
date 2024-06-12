@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Learning\\GitHub\\QuanLyNhanSu\\Nhom3_QuanLyNhanSu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2BA17153-7015-4FA8-B47E-1254EB47908C}|Nhom3_QuanLyNhanSu\\QuanLyNhanSu.csproj|d:\\learning\\github\\quanlynhansu\\nhom3_quanlynhansu\\nhom3_quanlynhansu\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BA17153-7015-4FA8-B47E-1254EB47908C}|Nhom3_QuanLyNhanSu\\QuanLyNhanSu.csproj|solutionrelative:nhom3_quanlynhansu\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2BA17153-7015-4FA8-B47E-1254EB47908C}|Nhom3_QuanLyNhanSu\\QuanLyNhanSu.csproj|d:\\learning\\github\\quanlynhansu\\nhom3_quanlynhansu\\nhom3_quanlynhansu\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2BA17153-7015-4FA8-B47E-1254EB47908C}|Nhom3_QuanLyNhanSu\\QuanLyNhanSu.csproj|solutionrelative:nhom3_quanlynhansu\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2BA17153-7015-4FA8-B47E-1254EB47908C}|Nhom3_QuanLyNhanSu\\QuanLyNhanSu.csproj|d:\\learning\\github\\quanlynhansu\\nhom3_quanlynhansu\\nhom3_quanlynhansu\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{2BA17153-7015-4FA8-B47E-1254EB47908C}|Nhom3_QuanLyNhanSu\\QuanLyNhanSu.csproj|d:\\learning\\github\\quanlynhansu\\nhom3_quanlynhansu\\nhom3_quanlynhansu\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2BA17153-7015-4FA8-B47E-1254EB47908C}|Nhom3_QuanLyNhanSu\\QuanLyNhanSu.csproj|solutionrelative:nhom3_quanlynhansu\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA17153-7015-4FA8-B47E-1254EB47908C}|Nhom3_QuanLyNhanSu\\QuanLyNhanSu.csproj|d:\\learning\\github\\quanlynhansu\\nhom3_quanlynhansu\\nhom3_quanlynhansu\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2BA17153-7015-4FA8-B47E-1254EB47908C}|Nhom3_QuanLyNhanSu\\QuanLyNhanSu.csproj|solutionrelative:nhom3_quanlynhansu\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,15 +31,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BaseModel.cs",
-              "DocumentMoniker": "D:\\Learning\\GitHub\\QuanLyNhanSu\\Nhom3_QuanLyNhanSu\\Nhom3_QuanLyNhanSu\\Models\\BaseModel.cs",
-              "RelativeDocumentMoniker": "Nhom3_QuanLyNhanSu\\Models\\BaseModel.cs",
-              "ToolTip": "D:\\Learning\\GitHub\\QuanLyNhanSu\\Nhom3_QuanLyNhanSu\\Nhom3_QuanLyNhanSu\\Models\\BaseModel.cs",
-              "RelativeToolTip": "Nhom3_QuanLyNhanSu\\Models\\BaseModel.cs",
-              "ViewState": "AQIAAOcAAAAAAAAAAAAAwP8AAAANAAAA",
+              "Title": "FrmMain.cs [Design]",
+              "DocumentMoniker": "D:\\Learning\\GitHub\\QuanLyNhanSu\\Nhom3_QuanLyNhanSu\\Nhom3_QuanLyNhanSu\\FrmMain.cs",
+              "RelativeDocumentMoniker": "Nhom3_QuanLyNhanSu\\FrmMain.cs",
+              "ToolTip": "D:\\Learning\\GitHub\\QuanLyNhanSu\\Nhom3_QuanLyNhanSu\\Nhom3_QuanLyNhanSu\\FrmMain.cs [Design]",
+              "RelativeToolTip": "Nhom3_QuanLyNhanSu\\FrmMain.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T13:52:50.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T02:01:21.448Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -45,9 +48,9 @@
               "RelativeDocumentMoniker": "Nhom3_QuanLyNhanSu\\FrmNhanVien.cs",
               "ToolTip": "D:\\Learning\\GitHub\\QuanLyNhanSu\\Nhom3_QuanLyNhanSu\\Nhom3_QuanLyNhanSu\\FrmNhanVien.cs",
               "RelativeToolTip": "Nhom3_QuanLyNhanSu\\FrmNhanVien.cs",
-              "ViewState": "AQIAALIBAAAAAAAAAAAmwMABAAAcAAAA",
+              "ViewState": "AQIAAMkCAAAAAAAAAAApwO0BAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T13:52:07.097Z",
+              "WhenOpened": "2024-06-01T01:56:28.947Z",
               "EditorCaption": ""
             },
             {
@@ -59,7 +62,19 @@
               "ToolTip": "D:\\Learning\\GitHub\\QuanLyNhanSu\\Nhom3_QuanLyNhanSu\\Nhom3_QuanLyNhanSu\\FrmNhanVien.cs [Design]",
               "RelativeToolTip": "Nhom3_QuanLyNhanSu\\FrmNhanVien.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T13:52:04.257Z",
+              "WhenOpened": "2024-06-01T01:56:06.868Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmHome.cs [Design]",
+              "DocumentMoniker": "D:\\Learning\\GitHub\\QuanLyNhanSu\\Nhom3_QuanLyNhanSu\\Nhom3_QuanLyNhanSu\\FrmHome.cs",
+              "RelativeDocumentMoniker": "Nhom3_QuanLyNhanSu\\FrmHome.cs",
+              "ToolTip": "D:\\Learning\\GitHub\\QuanLyNhanSu\\Nhom3_QuanLyNhanSu\\Nhom3_QuanLyNhanSu\\FrmHome.cs [Design]",
+              "RelativeToolTip": "Nhom3_QuanLyNhanSu\\FrmHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T01:55:50.344Z",
               "EditorCaption": " [Design]"
             }
           ]
