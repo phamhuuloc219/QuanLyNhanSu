@@ -8,7 +8,7 @@
 <br>
 <p> 
   <h1>
-  Bài tập nhóm môn Công nghệ phần mềm: Phần mềm quản lý nhân sự</h1>
+  Bài tập nhóm môn Công nghệ phần mềm: Phần mềm quản lý nhân sự công ty Let's Code</h1>
   <br>
   <h2>Thành viên trong nhóm:</h2>
 
